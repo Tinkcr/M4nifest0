@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/manifestoblackhathacking/">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/viralmaniar/">
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	<a href="https://www.youtube.com/c/cybermonitoringhack4lx">
+		<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/maniarviral">
+	<a href="https://twitter.com/_M4nifest0_">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
