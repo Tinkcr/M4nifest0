@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white" />
 	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<h2>❤ Funding 🔝</h2>
+<h2>❤ Financial support 🔝</h2>
 <p align="center">
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/M4nifest0">
