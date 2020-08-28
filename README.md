@@ -39,10 +39,8 @@ Here are some ideas to get you started:
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2>🌐 Our team specializes in the following programming languages:...</h2>
+<h2>📌 Our team specializes in the following programming languages:...</h2>
 <p align="center">	
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://t.me/M4nifest0">
 	<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
