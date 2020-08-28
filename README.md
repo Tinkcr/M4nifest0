@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Telegram](https://t.me/M4nifest0) | [Instagram](https://www.instagram.com/manifestoblackhathacking) | [Twitter](https://twitter.com/_M4nifest0_)| [ YouTube](https://www.youtube.com/channel/UCOjLcf3pEZo25EPAgrE3Gag/featured?view_as=subscriber)
+[Telegram](https://t.me/M4nifest0) | [Instagram](https://www.instagram.com/manifestoblackhathacking) | [Twitter](https://twitter.com/_M4nifest0_)| [ YouTube](https://www.youtube.com/channel/UCOjLcf3pEZo25EPAgrE3Gag/featured?view_as=subscriber)| [Github](https://github.com/M4nifest0)
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4nifest0)](https://github.com/M4nifest0)
