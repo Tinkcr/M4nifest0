@@ -1,6 +1,4 @@
-### 🔞The M4nifest0 (MCS) team
-
-### ☠️ is a security team from the Black Hat hacker group🏴‍
+### 🔞The M4nifest0 (MCS) team  ☠️ is a security team from the Black Hat hacker group🏴‍
 
 ### ☠️that has set up public sites👀, destroyed government sites🦠, and disclosed information around the world to enforce people's rights.💀💪
 
@@ -56,7 +54,11 @@ Here are some ideas to get you started:
 
 <h2>❤ Funding 🔝</h2>
 <p align="center">
-	
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/M4nifest0">
 	<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/M4nifest0">
 	<img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" />
+</p>
         
