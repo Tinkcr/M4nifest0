@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4nifest0)](https://github.com/M4nifest0)
 
 
-<h2>🌐 Find me here around web: ...</h2>
+<h2>### 📌 Explicit security team activity on social networks 🔞 </h2>
 <p align="center">	
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/M4nifest0">
