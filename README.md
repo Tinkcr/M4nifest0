@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/M4nifest0">
-	<img src="https://img.shields.io/badge/Ethereum-%2300457C.svg?&style=for-the-badge&logo=Ethereum&logoColor=white
+	<img src="https://img.shields.io/badge/Ethereum-%2300457C.svg?&style=for-the-badge&logo=Ethereum&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
       
