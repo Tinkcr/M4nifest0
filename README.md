@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 <h2>❤ Financial support 🔝</h2>
 <p align="center">
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://sellix.io/product/5f6ba8aca7e33">
+	<a href="https://sellix.io/product/5f6c7cc058f34">
 	<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://sellix.io/product/5f6ba8aca7e33">
+	<a href="https://sellix.io/product/5f6c7cc058f34">
 	<img src="https://img.shields.io/badge/Ethereum-%2300457C.svg?&style=for-the-badge&logo=Ethereum&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
