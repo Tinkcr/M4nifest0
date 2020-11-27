@@ -1,4 +1,4 @@
-### 🔞The M4nifest0 (MCS) team  ☠️ is a security team from the Black Hat hacker group🏴‍
+### 🔞The M4nifest0 (MCS) team  ☠️ is a security team from the Black Hat hacker group
 
 ### ☠️that has set up public sites👀, destroyed government sites🦠, and disclosed information around the world to enforce people's rights.💀💪
 
@@ -66,3 +66,5 @@ Here are some ideas to get you started:
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
       
+
+![Profile views](https://gpvc.arturio.dev/M4nifest0)
