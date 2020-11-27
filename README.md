@@ -1,7 +1,5 @@
 ### 🔞The M4nifest0 (MCS) team  ☠️ is a security team from the Black Hat hacker group
 
-### ☠️that has set up public sites👀, destroyed government sites🦠, and disclosed information around the world to enforce people's rights.💀💪
-
 <!--
 **M4nifest0/M4nifest0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
